@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.1.0/daptin-cli_0.1.0_windows_amd64.zip",
+            "bin": [
+                "daptin-cli.exe"
+            ],
+            "hash": "16955bbd1d8be4301b85a0f27d651093736b8ae639200afd3173325298b1e068"
+        },
+        "arm64": {
+            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.1.0/daptin-cli_0.1.0_windows_arm64.zip",
+            "bin": [
+                "daptin-cli.exe"
+            ],
+            "hash": "113643e33535d829f8eed499d0b91e95b24271c34a3bff4b427abd57d61ab67d"
+        }
+    },
+    "homepage": "https://github.com/daptin/daptin-cli",
+    "license": "MIT",
+    "description": "CLI client for Daptin API server"
+}

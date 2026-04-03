@@ -6,14 +6,14 @@
             "bin": [
                 "daptin-cli.exe"
             ],
-            "hash": "19aae7f26b63cba217a7b084d833c89234c5648eae48731ff388ba2335bef5e0"
+            "hash": "12da69012a3f009e6e43ab0cd6d98c27c44c3d6015252d8105e105c115992591"
         },
         "arm64": {
             "url": "https://github.com/daptin/daptin-cli/releases/download/v0.1.0/daptin-cli_0.1.0_windows_arm64.zip",
             "bin": [
                 "daptin-cli.exe"
             ],
-            "hash": "02e87963b9bac67593683c7b9b5b975dbbdeed2c863f2c2a21c7adf835e011a1"
+            "hash": "0f47e2e4986fd3fcc6fb5fa4c2154f78a65a68dc342300a274e9c8e445a97487"
         }
     },
     "homepage": "https://github.com/daptin/daptin-cli",

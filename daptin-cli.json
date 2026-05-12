@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.7.0/daptin-cli_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.7.1/daptin-cli_0.7.1_windows_amd64.zip",
             "bin": [
                 "daptin-cli.exe"
             ],
-            "hash": "78fb84e722245192f72fecd3371c43cf8ab2bfe20e3738046a6bd7927069ac52"
+            "hash": "d014999882b6ec24e2174eab7e6b4a41d79c7102f93ec65a078bb125205632c9"
         },
         "arm64": {
-            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.7.0/daptin-cli_0.7.0_windows_arm64.zip",
+            "url": "https://github.com/daptin/daptin-cli/releases/download/v0.7.1/daptin-cli_0.7.1_windows_arm64.zip",
             "bin": [
                 "daptin-cli.exe"
             ],
-            "hash": "91546f83025c7cbe1e1f380df7d3e7e55cfacf5f5b60b5202b452e6247070682"
+            "hash": "c8ef5647646ab6123c0fc34f36bc2c5481999ef1975f254a71556927e62e9216"
         }
     },
     "homepage": "https://github.com/daptin/daptin-cli",
